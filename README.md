@@ -1,7 +1,7 @@
 # Minhas fotos
 
 
-Um repositório simples, com fotos para aprender Github.
+Um repositório simples, com fotos para aprender controle de versão utilizando o Github.
 
 
 Big Picture by HTML5 UP
