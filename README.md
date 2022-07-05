@@ -1,7 +1,7 @@
 # Minhas fotos
 
 
-Um repositório simples, com fotos para aprender o controle de vers
+Um repositório simples, com fotos para aprender Github.
 
 
 Big Picture by HTML5 UP
